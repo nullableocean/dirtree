@@ -42,9 +42,9 @@
 ```
 ##### Использование
 
-`make build`
-`./dirtree -f .`
+- `make build`
+- `./dirtree -f .`
 
 ##### Тесты
 
-`make test`
+- `make test`
